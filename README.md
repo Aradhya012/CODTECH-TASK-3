@@ -24,3 +24,5 @@ A responsive personal portfolio website built using HTML and CSS to showcase pro
 - Add dark/light mode
 - Add JavaScript interactions
 - Add downloadable resume
+
+  I developed a responsive single-page portfolio website using HTML and CSS with structured navigation, responsive layout, and project showcase sections.
